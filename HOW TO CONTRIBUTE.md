@@ -2,21 +2,8 @@
 
 Thank you for showing interest in contributing to the **MountainKid-Valley** project! Whether you're a developer, writer, or just someone who wants to help, we appreciate any contributions. Here's how you can get involved:
 
-## 1. **Suggest Changes (via Issues)**
 
-If you spot a bug, have a suggestion for improvement, or see something that needs updating, you can raise an **Issue**. Issues help us keep track of things that need attention.
-
-### Steps to create an Issue:
-1. Visit the [MountainKid AI GitHub Repository](https://github.com/mountainkidai/MountainKid-Valley).
-2. Go to the **"Issues"** tab.
-3. Click on the **"New Issue"** button.
-4. Fill in the details about your suggestion or problem, and submit.
-
-We will review it and get back to you as soon as possible.
-
----
-
-## 2. **Submit Changes (via Pull Requests)**
+## 1. **Submit Changes (via Pull Requests)**
 
 If you'd like to make changes directly (such as fixing a typo, adding a feature, or improving documentation), you can **fork** the repository, make your changes, and submit them via a **Pull Request (PR)**. You don’t need to be a coder to do this! You can make simple changes directly on GitHub’s web interface.
 
@@ -24,10 +11,10 @@ If you'd like to make changes directly (such as fixing a typo, adding a feature,
 1. Visit the [MountainKid AI GitHub Repository](https://github.com/mountainkidai/MountainKid-Valley).
 2. Click the **"Fork"** button at the top right of the page to create your own copy of the repository.
 3. After forking, go to your **GitHub account** where the forked repository now exists.
-4. Click on the **"README.md"** or the file you want to edit.
+4. Click on the **"File that you want to edit"**.
 5. Click the **"pencil" icon** (edit button) on the top right corner of the file view. This will open the file in edit mode directly on GitHub’s web interface.
 6. Make your changes (for example, fixing a typo, adding a sentence, or editing content).
-7. Once you're done, scroll to the bottom and write a brief description of your changes in the **"Commit changes"** box.
+7. Once you're done, click commit changes button (top right corner) and write a brief description of your changes in the **"Commit changes"** box.
 8. Choose **"Create a new branch for this commit and start a pull request"** to make your changes in a separate branch.
 9. Click **"Propose changes"**.
 10. On the next page, click the **"Create pull request"** button to submit your changes.
