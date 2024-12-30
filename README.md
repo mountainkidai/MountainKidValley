@@ -34,19 +34,19 @@ Can we build the next tech valley in Himachal?
 **Challenges We Aim to Solve**
 
 
--Education for everyone to become engineers at thinking.
+Education for everyone to become engineers at thinking.
 
--Support for startups and innovations / Inventions.
+Support for startups and innovations / Inventions.
 
--Environmental sustainability.
+Environmental sustainability.
 
--Rural employment and infrastructure.
+Rural employment and infrastructure.
 
--Nutrition and Healthy food for everybody.
+Nutrition and Healthy food for everybody.
 
--Farming tools for everyone to do organic farming at fingertips.
+Farming tools for everyone to do organic farming at fingertips.
 
--Modern Tools with AI & Blockchain to run Himachal Tourism and Startup Ecosystem.
+Modern Tools with AI & Blockchain to run Himachal Tourism and Startup Ecosystem.
 
 
 
