@@ -3,6 +3,7 @@
 ## **Introduction**
 
 MountainKid Valley 2030 is a transformative initiative led by **AlpKid Capital Private Limited** with the mission of transitioning Himachal Pradesh from a tourism-based economy to a startup-driven economy by 2030. This ambitious project addresses critical issues such as youth emigration, environmental degradation, lack of education and skills, and the growing disconnect between traditional and modern development approaches.
+
 MountainKid Valley 2030 is not just a dream—it’s a movement. It’s a vision for a brighter, sustainable future where innovation meets tradition, and every idea transforms into meaningful change. This journey isn’t about one person or one company—it’s about all of us, shaping the future of Himachal together.
 
 
