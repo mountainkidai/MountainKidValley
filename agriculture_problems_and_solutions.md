@@ -248,6 +248,7 @@ While MSP is announced for 23 crops, procurement is largely focused on wheat and
 ---
 
 # Q19. Why is there no efficient mechanism for crop storage and transportation?
+There are multiple reasons for the inefficiency in crop storage and transportation. The major reasons include:
 
 - **Storage Capacity**: India's storage capacity is inadequate, with over **30% of agricultural produce**, particularly fruits and vegetables, lost post-harvest due to a lack of proper facilities. The country has a shortfall of nearly **35 million metric tons** of cold storage against the total demand of 75 million metric tons, according to a 2023 report by NABARD Consultancy Services Pvt. Ltd (NABCONS).
 - Farmers who attempt to use private cold storage face prohibitive costs, making these solutions unviable for small and marginal farmers. For example, cold storage rental costs in 2023 ranged from ₹**150 to ₹200 per quintal per month**, a price many cannot afford.
