@@ -49,8 +49,10 @@ Can we build the next tech valley in Himachal?
 7.Modern Tools with AI & Blockchain to run Himachal Tourism and Startup Ecosystem.
 
 
+---
 
 ## **Vision**
+
 
 To create a sustainable and thriving Himachal Pradesh by 2030 through innovation, skill development, and community-driven efforts, ensuring:
 
