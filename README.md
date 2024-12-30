@@ -25,12 +25,15 @@ With young people leaving for better opportunities, what will Himachal look like
  Can we balance tourism with preserving Himachal's environment?
 How can we equip youth with the skills to build their dreams here?
 Can we build the next tech valley in Himachal?
+
  **For a State/Country to thrive, we need:**
 1. Education rooted in first principles.
 2. Entertainment / Cultural events to improve unity among people.
 3. Transparent governance.
 
 **Challenges We Aim to Solve**
+
+
 Education for everyone to become engineers at thinking.
 Support for startups and innovations / Inventions.
 Environmental sustainability.
@@ -117,7 +120,8 @@ We invite individuals, organizations, and communities to join this initiative by
 - Collaborating on **sustainable tourism and agricultural practices**.
 - Helping document and simulate the **long-term effects of climate change** in the region.
 
-- MountainKid Valley 2030 is led by **AlpKid Capital Private Limited, but we are open for all**. And that’s why most of our projects will be open source driven so anyone passionate about building a brighter future for HImachal can contribute.
+
+MountainKid Valley 2030 is led by **AlpKid Capital Private Limited, but we are open for all**. And that’s why most of our projects will be open source driven so anyone passionate about building a brighter future for HImachal can contribute.
 
 
 
@@ -134,8 +138,10 @@ Stay connected with MountainKid Valley 2030 and be a part of this revolutionary 
 - [MountainKid Labs RFSE on Instagram](https://www.instagram.com/rfSeclub/)
 - [The MountainKid on Instagram](https://www.instagram.com/themountainkid/)
 
-- **Together, we create. Together, we grow.
-MountainKid Valley 2030: Where Dreams Meet Possibilities**.
+Together, we create. Together, we grow.
+
+
+**MountainKid Valley 2030: Where Dreams Meet Possibilities**.
 
 
 ---
