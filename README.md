@@ -2,156 +2,50 @@
 
 ## **Introduction**
 
-MountainKid Valley 2030 is not just a dream—It’s a responsible calculated engineering project for a brighter, sustainable future of Himachal & the world as the next tech valley where you see the intersection of Inventions/ Innovations, Engineering and Arts. 
-
-
-It is transformative initiative led by **AlpKid Capital Private Limited** with the mission of transitioning Himachal Pradesh from a tourism-based economy to a startup-driven economy by 2030. This ambitious project addresses critical issues such as youth emigration, environmental degradation, lack of education and skills, and the growing disconnect between traditional and modern development approaches.
-
+MountainKid Valley 2030 is not just a dream—It’s a responsible calculated engineering project for a brighter, sustainable future of the world as the next tech valley where you see the intersection of Inventions/ Innovations, Engineering and Arts. 
 
 ---
 
 ## **The Origin of MountainKid Valley**
 
-I was 17 when I realized that real life is living a long life in a short time rather than living a short life in a long time. By 20, I had 6 startup failures and had given up on life to become a monk in Kullu. And while working as a cleaner/Telecaller in a travel company for Rs.2000/- salary a month,I realized that becoming a monk at 20 is accepting failure, and in 5 years, I built myself from scratch and after starting TMK (TheMountainKid) Cafe in Summerhill (2022), it was clear to me that only Engineering and Youth can save the future of Himachal and this beautiful nature now.  That's how MountainKid started with Rs.600 and sheer passion to build something impactful.
+I was 17 when I got a severe heart pain and still could recall writing those last words in my journal -- Dear death, if you leave me today, next time when you come, I will make you cry. Thankfully, my mom took me to hospital and the reason turned out to be my bad sleep schedule and skipping food. But this incident made me realize that real life is living a long life in a short time rather than living a short life in a long time.Perhaps this could be the reason behind my risk taking nature in life. Truth be told, my earlier goal was to simply build a Bank - [AlpKid](https://alpkid.com/) and a software company [MountainKid AI](https://www.mountainkid.ai/) that solves problems (Sari,rfSE Club, Phunsuk,Sari farms) with Mathematics, Physics & First Principles. But some events in my life last year made me realize the purpose of my life - Build the next valley that inspires generations to dream, think, learn, challege the status quo to innovate and invent things. And thats how my journey with empty hands to building MountainKid valley evolved.
 
-Though I was born and raised in Andhra Pradesh, My time in the fields with my grandfather and his books has taught me that Nature is God and Engineering is the best reward in life that one could ever get. Perhaps that could be the reason why I am always intrigued to see nature growing up. And that’s how MountainKid name evolved (a real Phadi is the one who sees life/God in Nature)
+Though I was born and raised in Andhra Pradesh, there is no doubt in saying that I know more about Himachal than the place where I was born due to my introvert lifestyle all my life and I came here in 2019 and didn't visit home till date since I feel that I belong to mountains. And that’s how MountainKid name evolved (a real Phadi is the one who sees life/God in Nature)
 
- ## **What actually MountainKid wants to solve?**
+ ## **What actually MountainKid Valley wants to solve?**
 
- 
-Here are some of the questions I have after seeing Himachal in the last 5 years:
-At this pace of landslides,Will this natural beauty survive another decade?
-With young people leaving for better opportunities, what will Himachal look like in the next 10 years?
- Can we balance tourism with preserving Himachal's environment?
-How can we equip youth with the skills to build their dreams here?
-Can we build the next tech valley in Himachal?
-
- **For a State/Country to thrive, we need:**
-1. Education rooted in first principles.
-2. Entertainment / Cultural events to improve unity among people.
-3. Transparent governance.
-
-**Challenges We Aim to Solve**
+The moment you step out of your home, you have entertainment hubs everywhere, but there is no place to learn, think, write, change, dream, innovate , invent, challenge yourself. and thats what MountainKid Valley is all about. its a place where free minded souls gather together to do something meaningful, something that pushes human civilization forward. something, that creates fulfilment in life for thsoe individuals.
 
 
-1.Education for everyone to become engineers at thinking.
+**Challenges We are solving at MountainKid Valley by 2030**
 
-2.Support for startups and innovations / Inventions.
+1.Education for everyone to become engineers at thinking - [rfSE Club](https://www.rfse.club/).
 
-3.Environmental sustainability.
+2.Support for startups and innovations / Inventions. - [Shimla Hacker Hostel](https://www.mountainkid.ai/shimla-hacker-hostel)
 
-4.Rural employment and infrastructure.
+3.Rural employment & Farming - [Sari Farms](https://www.mountainkid.ai/farms).
 
-5.Nutrition and Healthy food for everybody.
+4.Nutrition and Healthy food for everybody [Sari](https://sari.one/).
 
-6.Farming tools for everyone to do organic farming at fingertips.
+5.Decentralized Banking - [AlpKid](https://www.alpkid.com/)
 
-7.Modern Tools with AI & Blockchain to run Himachal Tourism and Startup Ecosystem.
-
-
----
-
-## **Vision**
+6. Build MountainKid Valley place - [MountainKid Valley](https://www.mountainkidvalley.com/)
 
 
-To create a sustainable and thriving Himachal Pradesh by 2030 through innovation, skill development, and community-driven efforts, ensuring:
-
-- **Preservation of natural beauty and ecological balance**.
-- **Opportunities for youth** to grow and lead in the startup ecosystem.
-- **Development of cutting-edge infrastructure** integrated with sustainable technologies.
-- **Inclusive and quality education** rooted in first principles thinking.
-
----
-
-## **Objectives**
-
-### **Addressing Key Problems**
-
-1. Lack of proper education and skill development among youth.
-2. Youth migration to metropolitan cities in search of opportunities.
-3. Climate change and its visible effects, such as landslides and deforestation.
-4. Lack of rural employment and support for startups.
-5. Unsustainable tourism practices damaging the environment.
-6. Corruption and lack of transparency in governance.
-
-### **Building a Future Himachal**
-
-- Transitioning the economy from being tourism-reliant to **startup-driven**.
-- Enhancing government and private sector projects with **technology integration**.
-- Promoting sustainable agriculture through **organic methods and tech integration**.
-- Improving medical and educational facilities in rural areas.
-
----
-
-## **Why 2030?**
-Everything looks great on paper, but reality hits when we implement ideas. 
-
-If Galileo did not take that freedom of creator, by this time, no word of flight might be there as we live in a perception that we will vanish once we cross the edge of the earth.”
-
-If Elon Musk had not taken that freedom of invention, by this time, no word of electric transportation would have been there as we live in a perception that electric vehicles are a myth.
-
-With MountainKid Valley, the reward is either the **biggest failure of all time or the team of a company that transformed a field for the next generation. But the effort will shape Himachal's future**.
-
-
----
-
-## **Our Approach**
-
-### **1. Education with First Principles Thinking**
-
-We aim to teach youth not just how to get jobs but how to **create solutions** by understanding the "how" and "why" behind every concept.
-
-### **2. Sustainable Tourism**
-
-Developing tourism models that preserve the natural beauty of Himachal while benefiting local communities.
-
-### **3. Transparent Governance**
-
-Advocating for **open communication** between the government and citizens while integrating **technology-driven solutions** in public projects.
-
-### **4. Skill Development and Rural Employment**
-
-Providing training to youth in cutting-edge fields like **software development**, **artificial intelligence**, and **agriculture tech**, while creating avenues for rural job opportunities.
-
-### **5. Preservation of Nature**
-
-Conducting R&D into the impact of **climate change** and implementing solutions to combat **deforestation** and **soil erosion**.
-
----
-
-## **How to Contribute**
-
-We invite individuals, organizations, and communities to join this initiative by:
-
-- Providing **ideas and feedback** to improve the project's scope and reach.
-- Supporting the creation of **skill development programs** and tech-based solutions.
-- Collaborating on **sustainable tourism and agricultural practices**.
-- Helping document and simulate the **long-term effects of climate change** in the region.
-
-
-MountainKid Valley 2030 is led by **AlpKid Capital Private Limited, but we are open for all**. And that’s why most of our projects will be open source driven so anyone passionate about building a brighter future for HImachal can contribute.
+MountainKid Valley 2030 is led by **AlpKid Capital Private Limited, but we are open for all**. And that’s why most of our projects will be open source driven so anyone passionate about building a brighter future with MountainKid Valley.
 
 
 
 To contribute or collaborate, email us at **hello@alpkid.com**.
-
+CEO - **aariv@mountainkid.ai**
 ---
 
 ## **Follow Our Journey**
 
 Stay connected with MountainKid Valley 2030 and be a part of this revolutionary movement:
-
-- [AlpKid Capital on Instagram](https://www.instagram.com/alpkid/)
-- [Phunsuk AI on Instagram](https://www.instagram.com/phunsuk.ai)
-- [MountainKid Labs RFSE on Instagram](https://www.instagram.com/rfSeclub/)
-- [The MountainKid on Instagram](https://www.instagram.com/themountainkid/)
-
 Together, we create. Together, we grow.
 
-
-**MountainKid Valley 2030: Where Dreams Meet Possibilities**.
-
-
+**MountainKid Valley 2030**.
 ---
 
 ## **License**
